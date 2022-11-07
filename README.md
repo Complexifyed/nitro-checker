@@ -2,7 +2,8 @@ MADE BY COMPLEXIFY
 
 Nitro Generator And Checker
 
-Usage
+
+Usage:
 
 Run the main.py file using py -3 main.py The code will show you two prompts:
 How many codes to generate
